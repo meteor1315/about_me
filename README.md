@@ -1,61 +1,54 @@
-# Hi there, I'm Melchior.C
+# Hi, I'm Melchior
 
-I am a 17-year-old student, passionate about the bridge of **IT Infrastructure, Cloud Computing, AI, and Music**. Currently enrolled at the **CNED** with a focus on **Mathematics and NSI** (Mathematics and Digital Sciences and Computer Science), I balance rigorous academic studies with a dedicated commitment to professional technical mastery.
+I'm a 17-year-old student passionate about **IT infrastructure, cloud computing, AI, and music**. Currently studying **Mathematics and NSI** via CNED, I divide my time between high school academics and building practical technical skills.
 
-### What I do
-* **Infrastructure & DevOps:** Architecting and managing a personal Homelab (Proxmox, Docker) and beta deploying resilient B2B SaaS solutions.
-* **Automation & Data:** Developing complex pipelines (n8n, Python) for automated data intelligence and threat monitoring.
-* **Art & Digital:** Exploring the creative side of technology through digital art and VJing for live performances.
-* **Music:** Oboist at the Cannes Conservatory, blending rigor and creativity.
-
-
+### What I Do
+* **Infrastructure & DevOps:** Building and managing a personal homelab (Proxmox, Docker) and deploying experimental B2B SaaS setups.
+* **Automation & Scripting:** Writing Python scripts and n8n workflows for automated data processing and basic threat monitoring.
+* **Digital Art & VJing:** Visual projects: VJing and video mapping.
+* **Music:** Playing oboe at the Cannes Conservatory.
 
 ---
 
-### Certifications IBM SkillsBuild
+### IBM SkillsBuild Certifications
 
-| Badge | Certification / Module | Date de complétion |
+| Badge | Certification / Module | Completion Date |
 | :---: | :--- | :---: |
-| <a href="https://www.credly.com/go/XUmwv2Ks" target="_blank"><img src="badge-ai-fundamentals.png" width="300" alt="IBM AI Fundamentals Badge"></a> | **AI Fundamentals: Foundations for Understanding AI** | 02 Juillet 2026 |
+| <a href="https://www.credly.com/go/XUmwv2Ks" target="_blank"><img src="badge-ai-fundamentals.png" width="300" alt="IBM AI Fundamentals Badge"></a> | **AI Fundamentals: Foundations for Understanding AI** | July 02, 2026 |
 | ⏳ | **Cloud Computing Fundamentals** (66%) | *In progress* |
 
+---
 
---- 
-
-### Current Focus & Future Goals
-* **Learning:** Currently pursuing [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) & [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
-* **Intermediate Roadmap:** Depending on my schedule, I plan to tackle these IBM tracks before moving to Google certifications:
+### Current Focus & Goals
+* **Currently Learning:** Working through [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) and [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
+* **Next Steps:** Completing targeted IBM tracks before moving toward Google Cloud certifications:
     * [Python for Data Science](https://students.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+PY0101EN+V3)
     * [DevOps Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
-    * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2).
-    * [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-58FA14F64C9B)
-* **Academic Goal:** Integrating a top-tier **BUT Réseaux & Télécommunications(Bachelor’s Degree in Networks and Telecommunications)** to build a solid foundation in network engineering and IoT.
-* **Professional Goal:** Achieving the **Google Cloud Digital Leader** certification upon turning 18 in December 2026.
-* **Vision:** Specialized in integrating AI for datacenters and IoT security.
+    * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2)
+* **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** to build strong foundations in networking and IoT.
+* **Next Certification:** Passing the **Google Cloud Digital Leader** exam when I turn 18 in December 2026.
+* **Long-term Focus:** Infrastructure, AI integration for datacenters, and IoT security.
 
 ---
 
 # 🇫🇷
 
-Je suis un étudiant de 17 ans, passionné par le pont entre **l'infrastructure IT, le Cloud Computing, l'IA et la musique**. Actuellement scolarisé au **CNED** avec une spécialisation en **Mathématiques et NSI** (Numérique et Sciences Informatiques), je combine des études académiques stricte avec un engagement autonome vers la maîtrise technique professionnelle.
+Bonjour, moi c'est Melchior.
+
+Élève de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis passionné par les **infrastructures IT, le Cloud, l'IA et la musique**. En parallèle de mes cours, je consacre une bonne partie de mon temps à développer mes compétences techniques sur le terrain.
 
 ### Ce que je fais
-* **Infrastructure & DevOps :** Architecture et gestion d'un Homelab personnel (Proxmox, Docker) et déploiement beta de solutions SaaS B2B résilientes.
-* **Automatisation & Données :** Développement de pipelines complexes (n8n, Python) pour l'intelligence de données automatisée et la surveillance des menaces.
-* **Art & Numérique :** Exploration de la dimension créative de la technologie à travers l'art génératif et le VJing pour des performances live.
+* **Infrastructure & DevOps :** Gestion d'un homelab personnel (Proxmox, Docker) et tests de déploiement de solutions SaaS B2B.
+* **Automatisation & Données :** Création de workflows n8n et scripts Python pour le traitement automatisé de données et la veille cybersécurité.
+* **Art numérique & VJing :** Projets visuels VJing videomaping.
 * **Musique :** Hautboïste au Conservatoire de Cannes.
 
-
 ### Certifications IBM SkillsBuild
-*(Voir le tableau ci-dessus pour les détails)*
+*(Voir le tableau ci-dessus)*
 
-### Objectifs et Focus actuel
-* **Apprentissage :** En cours de validation du module [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) & [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
-* **Parcours intermédiaire :** Je prévois de suivre plusieurs formations IBM (Python, DevOps, Cloud, AI) avant de me spécialiser sur les certifications Google.
-* **Objectif académique :** Intégrer un **BUT Réseaux & Télécommunications** de premier plan pour poser des bases solides en ingénierie réseau et IoT.
-* **Objectif professionnel :** Obtenir la certification **Google Cloud Digital Leader** dès mes 18 ans en décembre 2026.
-* **Vision :** Spécialisation dans l'intégration de l'IA pour les datacenters et la sécurité IoT.
-
-
-
-*Cliquez sur les images de la version anglaise pour voir les détails de la certification.*
+### Objectifs & En cours
+* **Formations en cours :** Finalisation de [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) et [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
+* **Feuille de route :** Continuer le parcours IBM (Python, DevOps, Cybersécurité) avant de passer sur les certifications Google.
+* **Études :** Intégrer un **BUT Réseaux & Télécommunications** pour consolider mes bases en réseau et IoT.
+* **Certification cible :** Passer la **Google Cloud Digital Leader** à mes 18 ans en décembre 2026.
+* **Projet professionnel :** Travailler sur l'intégration de l'IA dans les datacenters et la sécurité de l'IoT.
