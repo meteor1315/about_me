@@ -22,8 +22,8 @@ I'm a 17-year-old student passionate about **IT infrastructure, cloud computing,
 ### Current Focus & Goals
 * **Currently Learning:** Working through [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) and [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Next Steps:** Completing targeted IBM tracks before moving toward Google Cloud certifications:
-[Web Development Fundamentals]([https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485))
-[IBM Cybersecurity Fundamentals]([https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA))
+    * [Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
+    * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
 * **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** to build strong foundations in networking and IoT.
 * **Next Certification:** Passing the **Google Cloud Digital Leader** exam when I turn 18 in December 2026.
 * **Long-term Focus:** Infrastructure, AI integration for datacenters, and IoT security.
