@@ -22,7 +22,6 @@ I'm a 17-year-old student passionate about **IT infrastructure, cloud computing,
 ### Current Focus & Goals
 * **Currently Learning:** Working through [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) and [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Next Steps:** Completing targeted IBM tracks before moving toward Google Cloud certifications:
-    * [Python for Data Science](https://students.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+PY0101EN+V3)
     * [DevOps Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2)
 * **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** to build strong foundations in networking and IoT.
