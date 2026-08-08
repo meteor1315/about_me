@@ -7,7 +7,7 @@ I'm a 17-year-old high schooler passionate about
 * **Infrastructure & DevOps:** Building and managing a personal homelab (Proxmox, Linux, Docker, Unifi ect) and deploying experimental B2B SaaS setups.
 * **Automation & Scripting:** Writing Python scripts and n8n workflows for automated data processing and basic threat monitoring.
 * **Digital Art & VJing:** Visual projects: VJing and video mapping.
-* **Music:** Playing oboe at the Cannes Conservatory.
+* **Music:** Studying oboe at the Conservatoire de Cannes.
 
 ---
 
