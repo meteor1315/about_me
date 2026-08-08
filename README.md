@@ -21,7 +21,7 @@ I'm a 17-year-old high schooler passionate about
 ---
 
 ### Current Focus & Goals
-* **Currently Learning:** Working through [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) and [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
+* **Currently Learning:**[Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Next Steps:** Completing targeted IBM tracks before moving toward Google Cloud certifications:
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
