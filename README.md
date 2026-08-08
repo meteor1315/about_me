@@ -3,7 +3,7 @@
 I'm a 17-year-old high schooler passionate about **IT infrastructure, cloud computing, AI, and music**. Currently studying **Mathematics and NSI** via CNED, I divide my time between high school academics, music. I’m also building practical technical skills with my homelab and obtaining certification .
 
 ### What I Do
-* **Infrastructure & DevOps:** Building and managing a personal homelab (Proxmox, Docker) and deploying experimental B2B SaaS setups.
+* **Infrastructure & DevOps:** Building and managing a personal homelab (Proxmox, Linux, Docker, Unifi ect) and deploying experimental B2B SaaS setups.
 * **Automation & Scripting:** Writing Python scripts and n8n workflows for automated data processing and basic threat monitoring.
 * **Digital Art & VJing:** Visual projects: VJing and video mapping.
 * **Music:** Playing oboe at the Cannes Conservatory.
@@ -37,7 +37,7 @@ Bonjour, je suis Melchior.
 Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis passionné par l’**IT, le Cloud, l'IA et la musique**. En parallèle de mes cours, développe mes compétences techniques via mon homelab et l’obtention de certifications.
 
 ### Ce que je fais
-* **Infrastructure & DevOps :** Gestion d'un homelab personnel (Proxmox, Docker) et tests de déploiement de solutions SaaS B2B.
+* **Infrastructure & DevOps :** Gestion d'un homelab personnel (Proxmox, Linux, Docker, Unifi ect) et tests de déploiement de solutions SaaS B2B.
 * **Automatisation & Données :** Création de workflows n8n et scripts Python pour le traitement automatisé de données et la veille cybersécurité.
 * **Art numérique & VJing :** Projets visuels VJing videomaping.
 * **Musique :** Hautboïste au Conservatoire de Cannes.
