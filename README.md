@@ -24,8 +24,8 @@ I'm a 17-year-old high schooler passionate about
 * **Currently Learning:** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Next Steps:** Completing certifications before moving toward Google Cloud certifications:
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
-    * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
     * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
+    * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
 * **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** to build strong foundations in networking and IoT.
 * **Next Certification:** Passing the **Google Cloud Digital Leader** exam when I turn 18 in December 2026.
 * **Long-term Focus:** Network Infrastructure, AI integration for datacenters, IoT and cloud .
@@ -51,8 +51,8 @@ Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis pa
 * **Formations en cours :** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Feuille de route :** Obtenir des certifications avant de s'orienter vers les certifications Google Cloud :
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
+    * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)  
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
-    * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 * **Études :** Intégrer un **BUT Réseaux & Télécommunications** pour consolider mes bases en réseau et IoT.
 * **Certification cible :** Passer la **Google Cloud Digital Leader** à mes 18 ans en décembre 2026.
 * **Projet professionnel :** Travailler sur des infrastructure réseaux, l’intégration de l'IA dans les datacenters , IoT et cloud.
