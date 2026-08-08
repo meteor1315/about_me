@@ -1,6 +1,6 @@
 # Hi, I'm Melchior
 
-I'm a 17-year-old student passionate about **IT infrastructure, cloud computing, AI, and music**. Currently studying **Mathematics and NSI** via CNED, I divide my time between high school academics and building practical technical skills.
+I'm a 17-year-old high schooler passionate about **IT infrastructure, cloud computing, AI, and music**. Currently studying **Mathematics and NSI** via CNED, I divide my time between high school academics, music. I’m also building practical technical skills with my homelab and obtaining certification .
 
 ### What I Do
 * **Infrastructure & DevOps:** Building and managing a personal homelab (Proxmox, Docker) and deploying experimental B2B SaaS setups.
@@ -22,19 +22,19 @@ I'm a 17-year-old student passionate about **IT infrastructure, cloud computing,
 ### Current Focus & Goals
 * **Currently Learning:** Working through [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) and [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Next Steps:** Completing targeted IBM tracks before moving toward Google Cloud certifications:
-    * [Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
+    * [Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
 * **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** to build strong foundations in networking and IoT.
 * **Next Certification:** Passing the **Google Cloud Digital Leader** exam when I turn 18 in December 2026.
-* **Long-term Focus:** Infrastructure, AI integration for datacenters, and IoT security.
+* **Long-term Focus:** Network Infrastructure, AI integration for datacenters, IoT and cloud .
 
 ---
 
 # 🇫🇷
 
-Bonjour, moi c'est Melchior.
+Bonjour, je suis Melchior.
 
-Élève de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis passionné par les **infrastructures IT, le Cloud, l'IA et la musique**. En parallèle de mes cours, je consacre une bonne partie de mon temps à développer mes compétences techniques sur le terrain.
+Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis passionné par les l’**IT, le Cloud, l'IA et la musique**. En parallèle de mes cours, développe mes compétences techniques via mon homelab et l’obtention de certifications.
 
 ### Ce que je fais
 * **Infrastructure & DevOps :** Gestion d'un homelab personnel (Proxmox, Docker) et tests de déploiement de solutions SaaS B2B.
@@ -47,7 +47,7 @@ Bonjour, moi c'est Melchior.
 
 ### Objectifs & En cours
 * **Formations en cours :** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
-* **Feuille de route :** Continuer le parcours IBM avant de passer sur les certifications Google.
+* **Feuille de route :** Continuer les parcours IBM avant de passer sur les certifications Google.
 * **Études :** Intégrer un **BUT Réseaux & Télécommunications** pour consolider mes bases en réseau et IoT.
 * **Certification cible :** Passer la **Google Cloud Digital Leader** à mes 18 ans en décembre 2026.
-* **Projet professionnel :** Travailler sur l'intégration de l'IA dans les datacenters et la sécurité de l'IoT.
+* **Projet professionnel :** Travailler sur des infrastructure réseaux, l’intégration de l'IA dans les datacenters , IoT et cloud.
