@@ -1,6 +1,6 @@
 # Hi, I'm Melchior
 
-I'm a 17-year-old high schooler passionate about **IT infrastructure, cloud computing, AI, and music**. Currently studying **Mathematics and NSI** via CNED, I divide my time between high school academics, music. I’m also building practical technical skills with my homelab and obtaining certification .
+I'm a 17-year-old high schooler passionate by **IT infrastructure, cloud computing, AI, and music**. Currently studying **Mathematics and NSI** via CNED, I divide my time between high school academics, music. I’m also building practical technical skills with my homelab and obtaining certification .
 
 ### What I Do
 * **Infrastructure & DevOps:** Building and managing a personal homelab (Proxmox, Linux, Docker, Unifi ect) and deploying experimental B2B SaaS setups.
@@ -34,7 +34,7 @@ I'm a 17-year-old high schooler passionate about **IT infrastructure, cloud comp
 
 Bonjour, je suis Melchior.
 
-Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis passionné par l’**IT, le Cloud, l'IA et la musique**. En parallèle de mes cours, développe mes compétences techniques via mon homelab et l’obtention de certifications.
+Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis passionné par l’**IT, le Cloud, l'IA et la musique**. En parallèle de mes cours, je cherches à développee mes compétences techniques via mon homelab et par l’obtention de certifications.
 
 ### Ce que je fais
 * **Infrastructure & DevOps :** Gestion d'un homelab personnel (Proxmox, Linux, Docker, Unifi ect) et tests de déploiement de solutions SaaS B2B.
