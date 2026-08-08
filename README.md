@@ -49,7 +49,10 @@ Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis pa
 
 ### Objectifs & En cours
 * **Formations en cours :** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
-* **Feuille de route :** Continuer les parcours IBM avant de passer sur les certifications Google.
+* **Feuille de route :** Obtenir des certifications avant de s'orienter vers les certifications Google Cloud :
+    * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
+    * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
+    * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 * **Études :** Intégrer un **BUT Réseaux & Télécommunications** pour consolider mes bases en réseau et IoT.
 * **Certification cible :** Passer la **Google Cloud Digital Leader** à mes 18 ans en décembre 2026.
 * **Projet professionnel :** Travailler sur des infrastructure réseaux, l’intégration de l'IA dans les datacenters , IoT et cloud.
