@@ -22,7 +22,7 @@ I'm a 17-year-old high schooler passionate about
 
 ### Current Focus & Goals
 * **Currently Learning:** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
-* **Next Steps:** Completing certifications before moving toward Google Cloud certifications:
+* **Next Steps:**
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
@@ -49,7 +49,7 @@ Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis pa
 
 ### Objectifs & En cours
 * **Formations en cours :** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
-* **Feuille de route :** Obtenir des certifications avant de s'orienter vers les certifications Google Cloud :
+* **Feuille de route :**
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)  
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
