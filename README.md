@@ -34,7 +34,7 @@ I'm a 17-year-old high schooler passionate about **IT infrastructure, cloud comp
 
 Bonjour, je suis Melchior.
 
-Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis passionné par les l’**IT, le Cloud, l'IA et la musique**. En parallèle de mes cours, développe mes compétences techniques via mon homelab et l’obtention de certifications.
+Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis passionné par l’**IT, le Cloud, l'IA et la musique**. En parallèle de mes cours, développe mes compétences techniques via mon homelab et l’obtention de certifications.
 
 ### Ce que je fais
 * **Infrastructure & DevOps :** Gestion d'un homelab personnel (Proxmox, Docker) et tests de déploiement de solutions SaaS B2B.
