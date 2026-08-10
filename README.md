@@ -16,7 +16,7 @@ I'm a 17-year-old high schooler passionate about
 | Badge | Certification / Module | Completion Date |
 | :---: | :--- | :---: |
 | <a href="https://www.credly.com/go/XUmwv2Ks" target="_blank"><img src="badge-ai-fundamentals.png" width="300" alt="IBM AI Fundamentals Badge"></a> | **AI Fundamentals: Foundations for Understanding AI** | July 02, 2026 |
-| ⏳ | **Cloud Computing Fundamentals** (77%) | *In progress* |
+| ⏳ | **Cloud Computing Fundamentals** (88%) | *In progress* |
 
 ---
 
