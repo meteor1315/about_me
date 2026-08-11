@@ -23,9 +23,8 @@ badge-cloud-computing-fundamentals.png
 ---
 
 ### Current Focus & Goals
-* **Currently Learning:** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
+* **Currently Learning:** [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US).
 * **Next Steps:**
-    * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
 * **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** to build strong foundations in networking and IoT.
@@ -50,9 +49,8 @@ Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis pa
 *(Voir le tableau ci-dessus)*
 
 ### Objectifs & En cours
-* **Formations en cours :** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
+* **Formations en cours :** [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US).
 * **Feuille de route :**
-    * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
 * **Études :** Intégrer un **BUT Réseaux & Télécommunications** pour consolider mes bases en réseau et IoT.
