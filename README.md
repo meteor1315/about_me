@@ -25,8 +25,8 @@ badge-cloud-computing-fundamentals.png
 ### Current Focus & Goals
 * **Currently Learning:** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Next Steps:**
-    * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
+    * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
 * **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** to build strong foundations in networking and IoT.
 * **Next Certification:** Passing the **Google Cloud Digital Leader** exam when I turn 18 in December 2026.
@@ -52,8 +52,8 @@ Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis pa
 ### Objectifs & En cours
 * **Formations en cours :** [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Feuille de route :**
+    * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
-    * [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)  
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
 * **Études :** Intégrer un **BUT Réseaux & Télécommunications** pour consolider mes bases en réseau et IoT.
 * **Certification cible :** Passer la **Google Cloud Digital Leader** à mes 18 ans en décembre 2026.
