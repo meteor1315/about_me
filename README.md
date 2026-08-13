@@ -17,7 +17,7 @@ I'm a 17-year-old high schooler passionate about
 | :---: | :--- | :---: |
 | <a href="https://www.credly.com/go/XUmwv2Ks" target="_blank"><img src="badge-ai-fundamentals.png" width="300" alt="IBM AI Fundamentals Badge"></a> | **IBM AI Fundamentals: Foundations for Understanding AI** | July 02, 2026 |
 | <a href="https://www.credly.com/badges/998d1334-5c1e-4bec-b878-27c1b2a93b33/public_url" target="_blank"><img src="badge-cloud-computing-fundamentals.png" width="300" alt="Cloud Computing Fundamental Badge"></a>| **IBM Cloud Computing Fundamentals** | August 11, 2026 |
-| <a [CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US).<⏳></a>| **Cisco Networking Academy** | August 11, 2026 |
+|[CISCO Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)| **Cisco Networking Academy** 12% ⏳ | August 13, 2026 |
 
 
 
