@@ -19,7 +19,7 @@ I'm a 17-year-old high schooler passionate about
 | <a href="https://www.credly.com/badges/998d1334-5c1e-4bec-b878-27c1b2a93b33/public_url" target="_blank"><img src="badge-cloud-computing-fundamentals.png" width="300" alt="Cloud Computing Fundamental Badge"></a>| **Cloud Computing Fundamentals** | August 11, 2026 |
 
 
-badge-cloud-computing-fundamentals.png
+
 ---
 
 ### Current Focus & Goals
