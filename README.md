@@ -11,7 +11,7 @@ I'm a 17-year-old high schooler passionate about
 
 ---
 
-### IBM SkillsBuild Certifications
+### Certifications
 
 | Badge | Certification / Module | Completion Date |
 | :---: | :--- | :---: |
