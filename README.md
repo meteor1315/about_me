@@ -19,7 +19,7 @@ I have joined the GitHub Student Developer Pack.
 - Grandparents home network — Installation and configuration of a UniFi Cloud Gateway Ultra and U6+ access point, plus Ethernet cable pulling to prepare an upper-floor extension. RJ45 termination, an additional switch and commissioning of the extension remain planned. [Repository](https://github.com/meteor1315/my-first-network-infra).
     + Eufy cctv.
   
-- Bertrand Jenner's infrastructure — Contribution to bare-metal Proxmox installation and initial Tailscale setup/administration. Bertrand subsequently migrated remote access to UniFi Teleport; that migration is not my contribution.
+- External infrastructure — Contribution to bare-metal Proxmox installation and initial Tailscale setup/administration, docker installation, ubuntu desktop environment deployment and rustdesk deployment. The owner of the infrastructure subsequently migrated remote access to UniFi Teleport; that migration is not my contribution.
   
 - LoRa experimentation — Flashing configuration of MeshCore nodes on Heltec V3, Wio Tracker and SenseCAP P1 Pro hardware and administrating Meshcore repeater.
   
