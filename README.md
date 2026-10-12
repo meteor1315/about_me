@@ -1,6 +1,4 @@
-# Hi, I'm Melchior / Bonjour, je suis Melchior
-
-## English
+# Hi, I'm Melchior.
 
 I'm a high school student studying Mathematics and NSI through CNED, interested in IT infrastructure, networking, cloud computing, local AI and music. I develop practical skills through personal projects and certifications, and study oboe at the Conservatoire de Cannes.
 
