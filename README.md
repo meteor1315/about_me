@@ -47,9 +47,9 @@ I have joined the GitHub Student Developer Pack.
 * **Next Steps:**
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
-    * [Dante intro]
-    * [GitHub Foundations]
-    * [Google Cloud Digital Leader]
+    * [Dante intro](https://audinate.talentlms.com/plus/catalog?courseId=260)
+    * [GitHub Foundations](https://education.github.com/experiences/foundations_certificate)
+    * [Google Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader?hl=fr) 
 * **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** or **BTS CIEL** to build strong foundations in networking and IoT.
 * **Long-term Focus:** Network Infrastructure, AI integration for datacenters, IoT and cloud .
 
