@@ -6,7 +6,7 @@ I have joined the GitHub Student Developer Pack.
 
 ### Projects and technical contributions
 
-- Personal homelab — Proxmox VE on a Mac mini Intel 2018, with virtual machines, LXC containers and Docker services. Home Assistant OS supports home automation; GNS3 Server supports network simulation. Services include n8n, Nginx Proxy Manager, Tailscaile, Docker, Portainer, Homelab-Hub, MySQL, InfluxDB and Qdrant.
+- Personal homelab — Proxmox VE on a Mac mini Intel 2018, with virtual machines, LXC containers and Docker services. Home Assistant OS supports home automation; GNS3 Server supports network simulation. Services include n8n, Nginx Proxy Manager, Tailscale, Docker, Portainer, Homelab-Hub, MySQL, InfluxDB and Qdrant.
   
 - Remote Home Assistant access — Within the Tailscale VPN gateway setup, a reverse proxy provides access outside the local network through the Home Assistant mobile app and a web browser.
   
@@ -17,14 +17,14 @@ I have joined the GitHub Student Developer Pack.
 - Raspberry Pi remote maintenance — A separate Debian headless gateway for a third-party network, using Tailscale subnet routing and Raspberry Pi Connect. Network scanner troubleshooting included service discovery and SANE xerox_mfp configuration following an AirScan incompatibility. Used for network administration before deploying Grandparents unifi home network 
   
 - Grandparents home network — Installation and configuration of a UniFi Cloud Gateway Ultra and U6+ access point, plus Ethernet cable pulling to prepare an upper-floor extension. RJ45 termination, an additional switch and commissioning of the extension remain planned. [Repository](https://github.com/meteor1315/my-first-network-infra).
-    + Eufy cctv.
+    + 	Eufy CCTV system.
   
 - External infrastructure — Contribution to bare-metal Proxmox installation and initial Tailscale setup/administration, docker installation, ubuntu desktop environment deployment and rustdesk deployment. The owner of the infrastructure subsequently migrated remote access to UniFi Teleport; that migration is not my contribution.
   
-- LoRa experimentation — Flashing configuration of MeshCore nodes on Heltec V3, Wio Tracker and SenseCAP P1 Pro hardware and administrating Meshcore repeater.
+- LoRa experimentation — 	Flashing and configuring MeshCore nodes and administering a MeshCore repeater.
   
-- Meshcore Alpes-Maritime 06— Technical volunteering involving radio communications and LoRa experimentation.
-- Python learning — Trough high school, Codédex exercises and automation scripting. 
+- 	MeshCore Alpes-Maritimes 06 — Technical volunteering involving radio communications and LoRa experimentation.
+- Python learning — Through high school, Codédex exercises and automation scripting. 
 - Digital art — VJing and video mapping projects.
 
 
@@ -50,6 +50,6 @@ I have joined the GitHub Student Developer Pack.
     * [Dante intro]
     * [GitHub Foundations]
     * [Google Cloud Digital Leader]
-* **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** are **BTS CIEL** to build strong foundations in networking and IoT.
+* **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** or **BTS CIEL** to build strong foundations in networking and IoT.
 * **Long-term Focus:** Network Infrastructure, AI integration for datacenters, IoT and cloud .
 
