@@ -14,7 +14,7 @@ I have joined the GitHub Student Developer Pack.
   
 - n8n automation — API integrations, JavaScript processing, error handling and retries, Telegram reports, web collection and RAG pipelines, SSH execution of Python scripts and Excel reporting. Portfolio examples include Solana/Jito monitoring and AI Grant Hunter.
   
-- Raspberry Pi remote maintenance — A separate Debian headless gateway for a third-party network, using Tailscale subnet routing and Raspberry Pi Connect. Network scanner troubleshooting included service discovery and SANE xerox_mfp configuration following an AirScan incompatibility.
+- Raspberry Pi remote maintenance — A separate Debian headless gateway for a third-party network, using Tailscale subnet routing and Raspberry Pi Connect. Network scanner troubleshooting included service discovery and SANE xerox_mfp configuration following an AirScan incompatibility. Used for network administration before deploying Grandparents unifi home network 
   
 - Grandparents home network — Installation and configuration of a UniFi Cloud Gateway Ultra and U6+ access point, plus Ethernet cable pulling to prepare an upper-floor extension. RJ45 termination, an additional switch and commissioning of the extension remain planned. [Repository](https://github.com/meteor1315/my-first-network-infra).
     + Eufy cctv.
