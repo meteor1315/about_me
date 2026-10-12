@@ -28,7 +28,7 @@ I'm a 17-year-old high schooler passionate about
 * **Next Steps:**
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
-* **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** to build strong foundations in networking and IoT.
+* **Academic Plan:** Aiming for a **BUT Réseaux & Télécommunications** are **BTS CIEL** to build strong foundations in networking and IoT.
 * **Next Certification:** Passing the **Google Cloud Digital Leader** exam when I turn 18 in December 2026.
 * **Long-term Focus:** Network Infrastructure, AI integration for datacenters, IoT and cloud .
 
@@ -54,6 +54,6 @@ Lycéen de 17 ans au CNED en spécialités **Mathématiques et NSI**, je suis pa
 * **Feuille de route :**
     * [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [IBM Web Development Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
-* **Études :** Intégrer un **BUT Réseaux & Télécommunications** pour consolider mes bases en réseau et IoT.
+* **Études :** Intégrer un **BUT Réseaux & Télécommunications** ou **BTS CIEL** pour consolider mes bases en réseau et IoT.
 * **Certification cible :** Passer la **Google Cloud Digital Leader** à mes 18 ans en décembre 2026.
 * **Projet professionnel :** Travailler sur des infrastructure réseaux, l’intégration de l'IA dans les datacenters , IoT et cloud.
